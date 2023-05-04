@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @neon-city
+- 👀 I’m interested in web apps and games
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on game projects
+- 📫 Drop me a message here or on Twitter @stoyan_petrov
